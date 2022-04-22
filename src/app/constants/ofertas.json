@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "img": "https://http2.mlstatic.com/D_Q_NP_2X_619851-MLA49364207697_032022-AB.webp",
+    "price": 30499,
+    "discount": 12,
+    "free_shipping": true,
+    "fees": "",
+    "full": true
+  },
+  {
+    "id": 2,
+    "img": "https://http2.mlstatic.com/D_Q_NP_2X_805314-MLA49590440471_042022-AB.webp",
+    "price": 73143,
+    "discount": 52,
+    "free_shipping": true,
+    "fees": "12x $ 6.095 sin interés",
+    "full": false
+  },
+  {
+    "id": 3,
+    "img": "https://http2.mlstatic.com/D_Q_NP_2X_732010-MLA49052780670_022022-AB.webp",
+    "price": 142999,
+    "discount": 5,
+    "free_shipping": true,
+    "fees": "",
+    "full": true
+  },
+  {
+    "id": 4,
+    "img": "https://http2.mlstatic.com/D_Q_NP_2X_829321-MLA46348271392_062021-AB.webp",
+    "price": 69999,
+    "discount": 15,
+    "free_shipping": true,
+    "fees": "12x $ 5.833 sin interés",
+    "full": false
+  },
+  {
+    "id": 5,
+    "img": "https://http2.mlstatic.com/D_Q_NP_2X_906257-MLA40411842640_012020-AB.webp",
+    "price": 214999,
+    "discount": 14,
+    "free_shipping": true,
+    "fees": "6x $ 35.833 sin interés",
+    "full": false
+  }
+]
